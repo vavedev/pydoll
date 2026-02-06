@@ -540,6 +540,6 @@ Now that you understand Pydoll's core design, you're ready to explore specific f
 
 - **[Element Finding](element-finding.md)** - Learn Pydoll's intuitive element location APIs
 - **[Network Features](../features/network/monitoring.md)** - Leverage the event system for network analysis
-- **[Browser Management](../browser-management/tabs.md)** - Use async patterns for concurrent operations
+- **[Browser Management](../features/browser-management/tabs.md)** - Use async patterns for concurrent operations
 
 For deeper technical understanding, explore the [Deep Dive](../deep-dive/index.md) section.
