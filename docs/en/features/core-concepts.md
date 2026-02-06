@@ -190,7 +190,7 @@ async with tab.expect_download(keep_file_at='/downloads') as dl:
 ```
 
 !!! tip "Deep Dive"
-    Want to understand how async operations work under the hood? Check out the [Connection Layer](../../deep-dive/connection-layer.md) deep dive for implementation details.
+    Want to understand how async operations work under the hood? Check out the [Connection Layer](../deep-dive/fundamentals/connection-layer.md) deep dive for implementation details.
 
 ### Performance Implications
 
