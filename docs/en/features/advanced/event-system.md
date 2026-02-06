@@ -3,7 +3,7 @@
 Pydoll's event system allows you to listen and react to browser activities in real-time. This is essential for building dynamic automation, monitoring network requests, detecting page changes, and creating reactive workflows.
 
 !!! info "Deep Dive Available"
-    This guide focuses on practical usage. For architectural details and internal implementation, see [Event Architecture Deep Dive](../../deep-dive/event-architecture.md).
+    This guide focuses on practical usage. For architectural details and internal implementation, see [Event Architecture Deep Dive](../../deep-dive/architecture/event-architecture.md).
 
 ## Prerequisites
 
@@ -637,7 +637,7 @@ async def setup_monitoring(tab, track_network=False, track_dom=False):
 
 ## Further Reading
 
-- **[Event Architecture Deep Dive](../../deep-dive/event-architecture.md)** - Internal implementation and WebSocket communication
+- **[Event Architecture Deep Dive](../../deep-dive/architecture/event-architecture.md)** - Internal implementation and WebSocket communication
 - **[Network Monitoring](../network/monitoring.md)** - Advanced network analysis techniques
 - **[Reactive Automation](reactive-automation.md)** - Building event-driven workflows
 
