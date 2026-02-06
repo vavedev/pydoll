@@ -692,7 +692,7 @@ asyncio.run(context_config_manager())
 ## See Also
 
 - **[Multi-Tab Management](tabs.md)** - Managing multiple tabs within contexts
-- **[Deep Dive: Browser Domain](../../deep-dive/browser-domain.md)** - Architectural details on contexts
+- **[Deep Dive: Browser Domain](../../deep-dive/architecture/browser-domain.md)** - Architectural details on contexts
 - **[Network: HTTP Requests](../network/http-requests.md)** - Browser-context requests inherit context state
 - **[Core Concepts](../core-concepts.md)** - Understanding Pydoll's architecture
 
