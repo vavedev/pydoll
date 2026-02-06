@@ -542,4 +542,4 @@ Now that you understand Pydoll's core design, you're ready to explore specific f
 - **[Network Features](../network/monitoring.md)** - Leverage the event system for network analysis
 - **[Browser Management](../browser-management/tabs.md)** - Use async patterns for concurrent operations
 
-For deeper technical understanding, explore the [Deep Dive](../../deep-dive/index.md) section.
+For deeper technical understanding, explore the [Deep Dive](../deep-dive/index.md) section.
