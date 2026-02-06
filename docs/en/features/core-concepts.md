@@ -104,7 +104,7 @@ The Chrome DevTools Protocol isn't just for Pydoll; it's the same protocol that 
 Pydoll isn't just async-compatible; it's designed from the ground up to leverage Python's `asyncio` framework. This isn't a checkbox feature; it's fundamental to how Pydoll achieves high performance.
 
 !!! info "New to Async Programming?"
-    If you're not familiar with Python's `async`/`await` syntax or asyncio concepts, we strongly recommend reading our [Understanding Async/Await](../../deep-dive/connection-layer.md#understanding-asyncawait) guide first. It explains the fundamentals with practical examples that will help you understand how Pydoll's async architecture works and why it's so powerful for browser automation.
+    If you're not familiar with Python's `async`/`await` syntax or asyncio concepts, we strongly recommend reading our [Understanding Async/Await](../deep-dive/fundamentals/connection-layer.md#understanding-asyncawait) guide first. It explains the fundamentals with practical examples that will help you understand how Pydoll's async architecture works and why it's so powerful for browser automation.
 
 ### Why Async Matters for Browser Automation
 
