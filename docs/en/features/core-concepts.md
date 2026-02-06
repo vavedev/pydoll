@@ -59,7 +59,7 @@ Behind the scenes, `browser.start()` does the following:
 4. **Returns a Tab instance** ready for automation
 
 !!! info "Want to Know More?"
-    For technical details on how the browser process is managed internally, see the [Browser Domain](../../deep-dive/browser-domain.md#browser-process-manager) deep dive.
+    For technical details on how the browser process is managed internally, see the [Browser Domain](../deep-dive/architecture/browser-domain.md#browser-process-manager) deep dive.
 
 ### Benefits You'll Notice
 
