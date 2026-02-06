@@ -3,7 +3,7 @@
 This document explores the internal architecture of Pydoll's event system, covering WebSocket communication, event flow, callback management, and performance considerations.
 
 !!! info "Practical Usage Guide"
-    For practical examples and usage patterns, see the [Event System Guide](../features/advanced/event-system.md).
+    For practical examples and usage patterns, see the [Event System Guide](../../features/advanced/event-system.md).
 
 ## WebSocket Communication and CDP
 
@@ -429,5 +429,5 @@ Understanding this architecture helps you:
 - **Design Better Automation**: Leverage the architecture for efficient event-driven workflows
 - **Avoid Pitfalls**: Prevent memory leaks and performance degradation
 
-For practical usage patterns and examples, see the [Event System Guide](../features/advanced/event-system.md).
+For practical usage patterns and examples, see the [Event System Guide](../../features/advanced/event-system.md).
 
