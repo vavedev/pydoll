@@ -454,7 +454,7 @@ await wait_for_api_call(tab, '/api/users')
 ```
 
 !!! info "Deep Dive: Event System Details"
-    For a comprehensive guide to event handling, callback patterns, and performance considerations, see the [Event System](../../deep-dive/event-system.md) deep dive.
+    For a comprehensive guide to event handling, callback patterns, and performance considerations, see the [Event System](../features/advanced/event-system.md) deep dive.
 
 ### Event Performance
 
