@@ -97,7 +97,7 @@ The Chrome DevTools Protocol isn't just for Pydoll; it's the same protocol that 
 - **Active development**: Google maintains and evolves CDP continuously
 
 !!! tip "Deep Dive: Understanding CDP"
-    For a comprehensive understanding of how CDP works and why it's superior to WebDriver, see our [Chrome DevTools Protocol](../../deep-dive/cdp.md) deep dive.
+    For a comprehensive understanding of how CDP works and why it's superior to WebDriver, see our [Chrome DevTools Protocol](../deep-dive/fundamentals/cdp.md) deep dive.
 
 ## Async-First Architecture
 
